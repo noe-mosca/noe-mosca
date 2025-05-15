@@ -8,9 +8,8 @@
 
 ### 🚀 **About Me**
 - 🎓 **Computer Science & Applied Mathematics** student at **Télécom Paris**.
-- 🔍 Passionate about **Machine Learning, Computer Vision, and Blockchain**.
-- 📊 Currently diving into **statistical modeling, deep learning, and on-chain analytics**.
-- 🏆 **Competitive Programming**: Active on LeetCode and coding contests.
+- 🔍 Passionate about **Machine Learning, Computer Vision**.
+- 📊 Currently diving into **Statistical Modeling, Seep Learning, and Computer Vision**.
 
 ---
 
