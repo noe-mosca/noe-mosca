@@ -17,7 +17,6 @@
 | **Domain**       | **Technologies/Tools**                                     |
 |------------------|------------------------------------------------------------|
 | **ML/CV**        | PyTorch, TensorFlow, OpenCV, Scikit-learn                  |
-| **Blockchain**   | Injective Protocol                                         |
 | **Data Science** | Pandas, NumPy, Matplotlib, SQL                             |
 
 
