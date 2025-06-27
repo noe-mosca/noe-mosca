@@ -24,8 +24,11 @@
 
 
 ### **Notable Projects**
+#### 🎨 **[Unsupervised Artworks Clustering]([https://github.com/noe-mosca/Artworks-Style-Clustering](https://github.com/noe-mosca/Classification-of-artworks))**
+- Unsupervised clustering of paintings by visual and semantic style using deep features (CLIP, ResNet50) and handcrafted descriptors (color, texture)
+
 #### 🫀 **[Cardiac pathology classification](https://github.com/noe-mosca/-Cardiac-pathology-classification)**
-- Cassification of cardiac pathologies from MRI images using machine learning models trained on both anatomical and clinical features
+- Classification of cardiac pathologies from MRI images using machine learning models trained on both anatomical and clinical features
 
 #### 💧 **[Waterpixels](https://github.com/noe-mosca/Waterpixels)**
 - Implementation and analysis of a superpixel segmentation method called Waterpixels, based on watershed transforms and contour-aware grid structures
