@@ -24,7 +24,7 @@
 
 
 ### **Notable Projects**
-#### 🎨 **[Unsupervised Artworks Clustering]([https://github.com/noe-mosca/Artworks-Style-Clustering](https://github.com/noe-mosca/Classification-of-artworks))**
+#### 🎨 **[Unsupervised Artworks Clustering](https://github.com/noe-mosca/Classification-of-artworks)**
 - Unsupervised clustering of paintings by visual and semantic style using deep features (CLIP, ResNet50) and handcrafted descriptors (color, texture)
 
 #### 🫀 **[Cardiac pathology classification](https://github.com/noe-mosca/-Cardiac-pathology-classification)**
