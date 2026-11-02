@@ -16,8 +16,7 @@
 ### 🔬 **Research Experience**
 #### 🏛 **Harvard Medical School**, Harvard AI and Robotics Lab (Mar.–Sept. 2026)
 *Supervised by Dr. Mengyu Wang*
-- **Co-first author** of a paper under review at **ICLR 2027**
-- Project lead of **VISTA**, a multimodal egocentric benchmark for assistive AI for blind and low-vision users, built from wearable-sensor recordings
+- Project lead and **co-first author** of **[VISTA](https://github.com/Harvard-AI-and-Robotics-Lab/VISTA)**, a multimodal egocentric benchmark for assistive AI for blind and low-vision users, built from wearable-sensor recordings
 - Designed the annotations and the evaluation protocol (VLM-as-a-judge), benchmarked state-of-the-art VLMs on multi-GPU infrastructure and built a sensor-augmented VLM baseline
 
 #### 🦷 **WeDiagnostix**, with the CVN Laboratory, CentraleSupélec (Sept. 2025–Mar. 2026)
@@ -28,7 +27,7 @@
 ---
 
 ### 📄 **Publications**
-- **N. Mosca\***, et al. *VISTA: A Multimodal Egocentric Benchmark for Goal-Oriented Perception and Assistance to Blind and Low-Vision Users*. Under review at **ICLR 2027**. [arXiv:2610.22822](https://arxiv.org/abs/2610.22822) (\*equal contribution)
+- **N. Mosca\***, et al. *VISTA: A Multimodal Egocentric Benchmark for Goal-Oriented Perception and Assistance to Blind and Low-Vision Users*. [arXiv:2610.22822](https://arxiv.org/abs/2610.22822) | [Code](https://github.com/Harvard-AI-and-Robotics-Lab/VISTA) (\*equal contribution)
 
 ---
 
