@@ -16,7 +16,7 @@
 ### 🔬 **Research Experience**
 #### 🏛 **Harvard Medical School**, Harvard AI and Robotics Lab (Mar.–Sept. 2026)
 *Supervised by Dr. Mengyu Wang*
-- Project lead and **co-first author** of **VISTA**, a multimodal egocentric benchmark for assistive AI for blind and low-vision users, built from wearable-sensor recordings
+- Project lead of **VISTA**, a multimodal egocentric benchmark for assistive AI for blind and low-vision users, built from wearable-sensor recordings
 - Designed the annotations and the evaluation protocol (VLM-as-a-judge), benchmarked state-of-the-art VLMs on multi-GPU infrastructure and built a sensor-augmented VLM baseline
 
 #### 🦷 **WeDiagnostix**, with the CVN Laboratory, CentraleSupélec (Sept. 2025–Mar. 2026)
