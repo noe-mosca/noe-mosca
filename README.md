@@ -44,17 +44,24 @@
 ---
 
 ### **Notable Projects**
+
+### 🏛 Harvard AI & Robotics Lab
 #### 👁 **[VISTA](https://github.com/Harvard-AI-and-Robotics-Lab/VISTA)**
 - Multimodal egocentric benchmark for goal-oriented perception and assistance to blind and low-vision users, built from wearable-sensor recordings, with a VLM-as-a-judge evaluation and a sensor-augmented VLM baseline
 
+### 🎓 M2 IASD (PSL)
+#### 🖌 **[GAN on MNIST with a fixed generator](https://github.com/Master-IASD/masteriasd-datalab-project-a2-group-3)**
+- GAN on MNIST with an imposed, non-modifiable generator, studying data, training and inference levers; I led the training part (RpGAN + R1 regularization + generator EMA). The final model, combined with a recalibrated discriminator and OBRS rejection sampling, reaches an FID of 19.43
+
+#### 🎬 **[Movie Rating Prediction](https://github.com/Master-IASD/masteriasd-datalab-project-a1-group-39)**
+- Recommender system from Netflix-Prize-style matrix factorization (biased ALS, BPMF, k-NN, genre-aware MF) to feature-weighted linear stacking, reaching a 0.8596 test RMSE, written up as a workshop-style paper
+
+### 📡 Télécom Paris
 #### 🎨 **[Unsupervised Artworks Clustering](https://github.com/noe-mosca/Classification-of-artworks)**
 - Unsupervised clustering of paintings by style with CLIP ViT-L/14 embeddings, PCA and k-means, evaluated quantitatively against artists and periods, with an analysis of label leakage through artist barycenters
 
 #### 🫀 **[Cardiac pathology classification](https://github.com/noe-mosca/-Cardiac-pathology-classification)**
 - Classification of cardiac pathologies from MRI (ED, ES and segmentations) using anatomical and clinical feature engineering and ensemble models (MLP, Random Forest, SVM)
-
-#### 💧 **[Waterpixels](https://github.com/noe-mosca/Waterpixels)**
-- Implementation and analysis of a superpixel segmentation method called Waterpixels, based on watershed transforms and contour-aware grid structures
 
 ---
 
