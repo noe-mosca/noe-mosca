@@ -56,7 +56,7 @@
 #### 🎬 **[Movie Rating Prediction](https://github.com/Master-IASD/masteriasd-datalab-project-a1-group-39)**
 - Recommender system from Netflix-Prize-style matrix factorization (biased ALS, BPMF, k-NN, genre-aware MF) to feature-weighted linear stacking, reaching a 0.8596 test RMSE, written up as a workshop-style paper
 
-### 📡 Télécom Paris
+### 🎓 Télécom Paris
 #### 🎨 **[Unsupervised Artworks Clustering](https://github.com/noe-mosca/Classification-of-artworks)**
 - Unsupervised clustering of paintings by style with CLIP ViT-L/14 embeddings, PCA and k-means, evaluated quantitatively against artists and periods, with an analysis of label leakage through artist barycenters
 
