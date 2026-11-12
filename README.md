@@ -45,6 +45,10 @@
 
 ### **Notable Projects**
 
+### 🏛 Harvard AI & Robotics Lab
+#### 👁 **[VISTA](https://github.com/Harvard-AI-and-Robotics-Lab/VISTA)**
+- Multimodal egocentric benchmark for goal-oriented perception and assistance to blind and low-vision users, built from wearable-sensor recordings, with a VLM-as-a-judge evaluation and a sensor-augmented VLM baseline
+
 ### 🎓 Télécom Paris
 #### 🎨 **[Unsupervised Artworks Clustering](https://github.com/noe-mosca/Classification-of-artworks)**
 - Unsupervised clustering of paintings by style with CLIP ViT-L/14 embeddings, PCA and k-means, evaluated quantitatively against artists and periods, with an analysis of label leakage through artist barycenters
